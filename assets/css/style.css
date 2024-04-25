@@ -24,8 +24,7 @@
 
 @font-face {
   font-family: "Dune Rise";
-  src: url("/geekfolio/dark/assets/fonts/dune_rise/Dune_Rise.otf")
-    format("opentype");
+  src: url("/assets/fonts/dune_rise/Dune_Rise.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -5401,6 +5400,8 @@ body.loaded {
 .clients-carso2 .img:hover {
   opacity: 1;
 }
+
+
 
 /* Career
 -----------------------------------------------------------------*/
