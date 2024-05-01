@@ -52,3 +52,9 @@ RewriteRule ^/?portfolio/?$ /portfolio-masonry-3.html [END]
 RewriteRule ^/?contact\.html$ /contact-us [R=301,END]
 RewriteRule ^/?contact-us/?$ /contact.html [END]
 
+RewriteRule ^/?privacy-policy\.html$ /privacy-policy [R=301,END]
+RewriteRule ^/?privacy-policy/?$ /privacy-policy.html [END]
+
+RewriteRule ^/?terms-conditions\.html$ /terms-&-conditions [R=301,END]
+RewriteRule ^/?terms-&-conditions/?$ /terms-conditions.html [END]
+
